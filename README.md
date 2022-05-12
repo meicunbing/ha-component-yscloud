@@ -1,0 +1,2 @@
+# ha-component-yscloud
+yscloud
